@@ -27,7 +27,7 @@ This repository contains the code files for the MVP of a bird tracking applicati
 1. Users would be able to add a comment to the bird profile page about what that bird means to them/their iwi/or any other points of significance to them.
 2. There would be information regarding the conservation status of the bird, and resources for ways the user can help these birds thrive.
 
-## MVP is build with 
+## MVP is built with 
 JavaScript (React, Redux, Webpack, Express, Knex), Google Maps, MATERIAL-UI, SCSS, HTML, SQLite, Auth0
 
 
