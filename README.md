@@ -38,6 +38,10 @@ Simply visit https://manu-mana.herokuapp.com
 
 Māori language and cultural stories are toanga that should be treated with care and consideration. 
 
+Further reading here:
+https://www.temanararaunga.maori.nz/nga-rauemi
+https://communitytoolkit.org.nz/information-and-privacy/maori-data-sovereignty/
+
   
  
 ## Supporting references for the use of Te Reo Māori in biodiversity reporting and associated web applications
