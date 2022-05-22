@@ -40,7 +40,7 @@ Māori language and cultural stories are toanga that should be treated with care
 
 Further reading here:
 https://www.temanararaunga.maori.nz/nga-rauemi
-https://communitytoolkit.org.nz/information-and-privacy/maori-data-sovereignty/
+
 
   
  
