@@ -38,7 +38,7 @@ Simply visit https://manu-mana.herokuapp.com
 
 Māori language and cultural stories are toanga that should be treated with care and consideration. 
 
-Further reading here:
+Further readings here:
 https://www.temanararaunga.maori.nz/nga-rauemi
 
 
